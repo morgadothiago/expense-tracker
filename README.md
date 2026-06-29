@@ -2,7 +2,7 @@
 
 > A fully offline personal finance mobile app built with React Native, Expo SDK 56, and TypeScript — no backend, no cloud, no internet required.
 
-[![CI](https://github.com/thiagomorgado/expense-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/thiagomorgado/expense-tracker/actions/workflows/ci.yml)
+[![CI](https://github.com/morgadothiago/expense-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/morgadothiago/expense-tracker/actions/workflows/ci.yml)
 ![React Native](https://img.shields.io/badge/React_Native-0.85.3-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo_SDK-56-000020?style=flat-square&logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-6.0-3178C6?style=flat-square&logo=typescript&logoColor=white)
